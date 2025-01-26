@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTpqkEHSeyYqHpCPyHbfHpr1bTShxpO92HO8XDrXgus+9wDTM4/IeVmGyeLDrZfK04Jg76bFxfa87ZIIrZO8IQ==",
+  "success": true,
+  "projectFilePath": "/home/sam-sepi0l/Документы/KlinRek/KlinRek/KlinRek.csproj",
+  "expectedPackageFiles": [
+    "/home/sam-sepi0l/.nuget/packages/exceldatareader/3.7.0/exceldatareader.3.7.0.nupkg.sha512",
+    "/home/sam-sepi0l/.nuget/packages/exceldatareader.dataset/3.7.0/exceldatareader.dataset.3.7.0.nupkg.sha512",
+    "/home/sam-sepi0l/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
