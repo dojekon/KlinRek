@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KlinRek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53119927b70152f5881485bccae86150a376c758")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e9d6ad1e1fdbc4d52f9c0f7a8952fc15f9e625c")]
 [assembly: System.Reflection.AssemblyProductAttribute("KlinRek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KlinRek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
